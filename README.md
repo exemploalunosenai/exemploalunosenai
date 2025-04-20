@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o exemploalunosenai</h1>
+<h1 align="center">Olá! 👋 Eu sou o Aluno Senai</h1>
 
 - 🎓 Estudante de Desenvolvimento de Sistemas no SENAI
 - 🔧 Atualmente aprendendo Git, GitHub e lógica de programação
