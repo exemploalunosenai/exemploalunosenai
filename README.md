@@ -24,9 +24,7 @@
 
 ### 📚 Últimos Projetos
 
-- `exemplo-calculadora-html`
-- `primeiro-site-pessoal`
-- `exercicio-git-pratico`
+- `exemplo-java`
 
 ---
 
