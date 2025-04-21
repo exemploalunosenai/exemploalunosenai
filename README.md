@@ -20,13 +20,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=exemploalunosenai&show_icons=true&theme=radical)
 
----
 
-### 📚 Últimos Projetos
-
-- `exemplo-java`
-
----
 
 ### 🤝 Conecte-se
 
